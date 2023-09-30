@@ -29,5 +29,4 @@ Turn 8: first jump
 <img width="569" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/40d14436-8bc7-4a52-8bf9-60a98f8b88c6">
 
 Turn 8: second jump
-<img width="646" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/7498cd71-d9ed-4f4c-8afb-70b350e4d53c">
-
+<img width="646" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/f6329de0-c0d6-4ff6-8c7d-034d4f6e6de5">
