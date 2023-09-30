@@ -2,31 +2,31 @@
 Implements a checkers game with checkers pieces on a board.
 
 Run the program to see a simulation of a checkers game. The simulation is also shown below, with the most recent move clearly marked.
-<img width="413" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/4087b657-727f-44d2-92f0-f561f85ca4c3">
+<img width="421" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/6c1e49f0-230f-40c5-a80f-2388e5decf1b">
 
 Turn 1
-<img width="421" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/2ceda7c0-f779-4e7a-945a-cecd972fc890">
+<img width="422" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/1eebb2d1-ee6c-45c7-9ac8-52cd7d649891">
 
 Turn 2
-<img width="424" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/13a583f3-24d1-47cf-95cc-e3c3c64d3350">
+<img width="422" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/e3ea43e4-9961-48a3-9a0c-e9040ee943a6">
 
 Turn 3
-<img width="421" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/ab3c9b96-f515-4c33-962e-34def950f790">
+<img width="419" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/c4f041f1-3421-4dc4-ae9f-19f8fa057475">
 
 Turn 4
-<img width="421" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/6157f970-661e-4ff9-98a1-c360ca6e8a4b">
+<img width="427" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/e99203b6-3e08-4b92-b78b-854a780f6fbe">
 
 Turn 5
-<img width="425" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/fd2217cf-285e-4b8b-87b0-8297048f53f8">
+<img width="420" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/693c8536-f715-4de3-944b-5e8702c79f50">
 
 Turn 6
-<img width="414" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/410c78ba-0d8d-4f59-8f70-529e7961c389">
+<img width="415" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/7969ffd1-42bd-4cbe-9fd0-5adda02b97aa">
 
 Turn 7
-<img width="416" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/14bddf72-99ab-4784-85ee-6eda3ee0bcbf">
+<img width="418" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/bbc96c22-d16d-48f7-94ab-327818032321">
 
 Turn 8: first jump
-<img width="569" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/40d14436-8bc7-4a52-8bf9-60a98f8b88c6">
+<img width="563" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/4ebab09d-507d-449c-af48-c46ace01cb51">
 
 Turn 8: second jump
 <img width="646" alt="image" src="https://github.com/hwanglosu/CheckersGame/assets/114049284/f6329de0-c0d6-4ff6-8c7d-034d4f6e6de5">
